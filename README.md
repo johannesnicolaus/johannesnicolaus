@@ -3,14 +3,11 @@
 <!--
 **johannesnicolaus/johannesnicolaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Bioinformatics and Imaging analysis
-- 🌱 I’m currently learning R
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on transcriptomic, functional genomic and imaging analysis
+- 🏫 I'm currently working at the Laboratory of Cell Systems, Institute for Protein Research, Osaka University
+- 🌱 I’m currently learning python, 3D printing
+- 💬 Ask me about anything!
+- 📫 How to reach me: nico@protein.osaka-u.ac.jp or johannes.nicolaus@gmail.com
+- ⚡ Fun fact: I also love 3D printing
 
