@@ -8,6 +8,6 @@
 - 🏫 I have just moved to Okinawa Institute of Science and Technology for my PhD
 - 🌱 I’m currently learning about python, 3D printing
 - 💬 Ask me about anything!
-- 📫 How to reach me: nicolaus-johannes@oist.jp or johannes.nicolaus@gmail.com
+- 📫 How to reach me: nicolaus.johannes@oist.jp or johannes.nicolaus@gmail.com
 - ⚡ Fun fact: I keep many carnivorous plants, my turtle was adopted by a friend
 
