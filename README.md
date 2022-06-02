@@ -11,4 +11,4 @@
 - 📫 How to reach me: nicolaus.johannes@oist.jp or johannes.nicolaus@gmail.com
 - ⚡ Fun fact: I keep many carnivorous plants, my turtle was adopted by a friend
 
-[![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=johannesnicolaus&count_private=true)]()
+[![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=johannesnicolaus&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
